@@ -1,0 +1,5 @@
+id;name;author_id;genre_id;user_id;description;photo_path
+;Ночной дозор;1;1;1;desc1;path1
+;Лабиринты отражения;2;2;2;desc2;path2
+;Горе от ума;2;2;2;desc2;path2
+;Неукротимая планета;3;3;3;desc3;path3
